@@ -2,7 +2,7 @@ function preload(){
 }
 
 function setup(){
-    canvas = createCanvas(400,400);
+    canvas = createCanvas(500,500);
     canvas.center();
     video = createCapture(VIDEO);
     video.size(400,400);
@@ -17,7 +17,7 @@ function draw(){
 }
 
 function take_snapshot(){
-    save("https://static.vecteezy.com/system/resources/previews/013/789/914/non_2x/moustaches-colors-bright-set-on-dark-background-vector.jpg");
+    save("my_picture.png");
 }
 
 function modelLoaded(){
