@@ -17,7 +17,7 @@ function draw(){
 }
 
 function take_snapshot(){
-    save("my_picture.png");
+    save("https://static.vecteezy.com/system/resources/previews/013/789/914/non_2x/moustaches-colors-bright-set-on-dark-background-vector.jpg");
 }
 
 function modelLoaded(){
