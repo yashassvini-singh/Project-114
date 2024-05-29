@@ -17,7 +17,7 @@ function setup(){
 
 function draw(){
     image(video,0,0,400,400);
-    image(mustache,mustachex,mustachey,80,65);
+    image("https://static.vecteezy.com/system/resources/previews/013/789/914/non_2x/moustaches-colors-bright-set-on-dark-background-vector.jpg",mustachex,mustachey,80,65);
 }
 
 function take_snapshot(){
